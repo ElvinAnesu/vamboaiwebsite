@@ -1,0 +1,144 @@
+[
+	{
+		"id": 1,
+		"planTitle": "Free Plan",
+		"planDetails": "Get started with our startup package",
+		"monthlyPricing": "Free Plan",
+		"yearlyPricing": "Free Plan",
+		"isPopular": false,
+		"url": "/login",
+		"featureList": [
+			{
+				"id": 1,
+				"list": "ChatGPT 3.5Open AI Model"
+			},
+			{
+				"id": 2,
+				"list": "37 AI Templates"
+			},
+			{
+				"id": 3,
+				"list": "5000 Words per month"
+			},
+			{
+				"id": 4,
+				"list": "10 Images per month"
+			},
+			{
+				"id": 5,
+				"list": "2 Speech to Text per month"
+			},
+			{
+				"id": 6,
+				"list": "Stable Diffusion Images"
+			},
+			{
+				"id": 7,
+				"list": "AI Blog Wizard"
+			},
+			{
+				"id": 8,
+				"list": "Speech to Text"
+			},
+			{
+				"id": 9,
+				"list": "Custom Templates"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"planTitle": "Standard Plan",
+		"planDetails": "Get started with our Standard package",
+		"monthlyPricing": "$20.0",
+		"yearlyPricing": "$239.0",
+		"pricingLabel": "Save 40%",
+		"isPopular": true,
+		"url": "/login",
+		"featureList": [
+			{
+				"id": 1,
+				"list": "ChatGPT 3.5Open AI Model"
+			},
+			{
+				"id": 2,
+				"list": "37 AI Templates"
+			},
+			{
+				"id": 3,
+				"list": "5000 Words per month"
+			},
+			{
+				"id": 4,
+				"list": "10 Images per month"
+			},
+			{
+				"id": 5,
+				"list": "2 Speech to Text per month"
+			},
+			{
+				"id": 6,
+				"list": "Stable Diffusion Images"
+			},
+			{
+				"id": 7,
+				"list": "AI Blog Wizard"
+			},
+			{
+				"id": 8,
+				"list": "Speech to Text"
+			},
+			{
+				"id": 9,
+				"list": "Custom Templates"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"planTitle": "Premium Plan",
+		"planDetails": "Get started with our Premium package",
+		"monthlyPricing": "$39.99",
+		"yearlyPricing": "$479.88",
+		"isPopular": false,
+		"url": "/login",
+		"featureList": [
+			{
+				"id": 1,
+				"list": "ChatGPT 3.5Open AI Model"
+			},
+			{
+				"id": 2,
+				"list": "37 AI Templates"
+			},
+			{
+				"id": 3,
+				"list": "5000 Words per month"
+			},
+			{
+				"id": 4,
+				"list": "10 Images per month"
+			},
+			{
+				"id": 5,
+				"list": "2 Speech to Text per month"
+			},
+			{
+				"id": 6,
+				"list": "Stable Diffusion Images"
+			},
+			{
+				"id": 7,
+				"list": "AI Blog Wizard"
+			},
+			{
+				"id": 8,
+				"list": "Speech to Text"
+			},
+			{
+				"id": 9,
+				"list": "Custom Templates"
+			}
+		]
+	}
+]

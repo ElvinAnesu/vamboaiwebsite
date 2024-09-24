@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"label": "AI News",
+		"image": "/img/blog-img-1.jpg",
+		"title": "Antenna Promises New era For Satellite Communication",
+		"date": "March 18, 2022",
+		"comment": "Comments 05"
+	},
+	{
+		"id": 2,
+		"label": "AI SAAS",
+		"image": "/img/blog-img-2.jpg",
+		"title": "AI software offers repetitive & mundane patterns",
+		"date": "May 23, 2023",
+		"comment": "Comments 07"
+	},
+	{
+		"id": 3,
+		"label": "Software",
+		"image": "/img/blog-img-3.jpg",
+		"title": "Antenna Promises New era For Satellite Communication",
+		"date": "April 13, 2024",
+		"comment": "Comments 02"
+	}
+]

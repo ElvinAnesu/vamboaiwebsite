@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "src": "/img/spotify.png",
+    "alt": "brand image"
+  },
+  {
+    "id": 2,
+    "src": "/img/brand-icon-1.png",
+    "alt": "brand image"
+  },
+  {
+    "id": 3,
+    "src": "/img/brand-icon-2.png",
+    "alt": "brand image"
+  },
+  {
+    "id": 4,
+    "src": "/img/brand-icon-3.png",
+    "alt": "brand image"
+  },
+  {
+    "id": 5,
+    "src": "/img/brand-icon-4.png",
+    "alt": "brand image"
+  },
+  {
+    "id": 6,
+    "src": "/img/brand-icon-5.png",
+    "alt": "brand image"
+  },
+  {
+    "id": 7,
+    "src": "/img/brand-icon-6.png",
+    "alt": "brand image"
+  },
+  {
+    "id": 8,
+    "src": "/img/brand-icon-7.png",
+    "alt": "brand image"
+  },
+  {
+    "id": 9,
+    "src": "/img/brand-icon-8.png",
+    "alt": "brand image"
+  },
+  {
+    "id": 10,
+    "src": "/img/brand-icon-9.png",
+    "alt": "brand image"
+  },
+  {
+    "id": 11,
+    "src": "/img/brand-icon-10.png",
+    "alt": "brand image"
+  },
+  {
+    "id": 12,
+    "src": "/img/brand-icon-11.png",
+    "alt": "brand image"
+  },
+  {
+    "id": 13,
+    "src": "/img/brand-icon-12.png",
+    "alt": "brand image"
+  }
+]

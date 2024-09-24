@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"iconSrc": "/img/ca-icon-1.png",
+		"title": "Excellent Support",
+		"details": "We are passionate about empowering creatives with the tools they need to bring their vision to life that why we have developed"
+	},
+	{
+		"id": 2,
+		"iconSrc": "/img/ca-icon-2.png",
+		"title": "Reliable Expert",
+		"details": "We are passionate about empowering creatives with the tools they need to bring their vision to life that why we have developed"
+	},
+	{
+		"id": 3,
+		"iconSrc": "/img/ca-icon-3.png",
+		"title": "Unique Technology",
+		"details": "We are passionate about empowering creatives with the tools they need to bring their vision to life that why we have developed"
+	},
+	{
+		"id": 4,
+		"iconSrc": "/img/ca-icon-4.png",
+		"title": "High Image Quality",
+		"details": "We are passionate about empowering creatives with the tools they need to bring their vision to life that why we have developed"
+	}
+]
