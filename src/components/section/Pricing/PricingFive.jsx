@@ -48,30 +48,48 @@ const PricingFive = () => {
 											<ul className="list gap-4">
 												<li>
 													<div className="d-flex gap-3">
-														<span className="flex-shrink-0 d-grid place-content-center w-5 h-5 rounded-circle border border-primary-key border-opacity-3 bg-primary-key bg-opacity-2 clr-primary-10">
+														<span
+															className="flex-shrink-0 d-grid place-content-center w-5 h-5 rounded-circle border border-primary-key border-opacity-3 bg-primary-key bg-opacity-2 "
+															style={{
+																backgroundColor: "#AB1515",
+																color: "#FFFFFF",
+															}}
+														>
 															<BsCheck2 />
 														</span>
-														<span className="d-block fs-14 clr-primary-10 fw-medium">
+														<span className="d-block fs-14  fw-medium">
 															Language translation
 														</span>
 													</div>
 												</li>
 												<li>
 													<div className="d-flex gap-3">
-														<span className="flex-shrink-0 d-grid place-content-center w-5 h-5 rounded-circle border border-primary-key border-opacity-3 bg-primary-key bg-opacity-2 clr-primary-10">
+														<span
+															className="flex-shrink-0 d-grid place-content-center w-5 h-5 rounded-circle border border-primary-key border-opacity-3 bg-primary-key bg-opacity-2 clr-primary-10"
+															style={{
+																backgroundColor: "#AB1515",
+																color: "#FFFFFF",
+															}}
+														>
 															<BsCheck2 />
 														</span>
-														<span className="d-block fs-14 clr-primary-10 fw-medium">
+														<span className="d-block fs-14  fw-medium">
 															Language detection
 														</span>
 													</div>
 												</li>
 												<li>
 													<div className="d-flex gap-3">
-														<span className="flex-shrink-0 d-grid place-content-center w-5 h-5 rounded-circle border border-primary-key border-opacity-3 bg-primary-key bg-opacity-2 clr-primary-10">
+														<span
+															className="flex-shrink-0 d-grid place-content-center w-5 h-5 rounded-circle border border-primary-key border-opacity-3 bg-primary-key bg-opacity-2 clr-primary-10"
+															style={{
+																backgroundColor: "#AB1515",
+																color: "#FFFFFF",
+															}}
+														>
 															<BsCheck2 />
 														</span>
-														<span className="d-block fs-14 clr-primary-10 fw-medium">
+														<span className="d-block fs-14  fw-medium">
 															Unlimited conversations
 														</span>
 													</div>
@@ -107,40 +125,64 @@ const PricingFive = () => {
 											<ul className="list gap-4">
 												<li>
 													<div className="d-flex gap-3">
-														<span className="flex-shrink-0 d-grid place-content-center w-5 h-5 rounded-circle border border-primary-key border-opacity-3 bg-primary-key bg-opacity-2 clr-primary-10">
+														<span
+															className="flex-shrink-0 d-grid place-content-center w-5 h-5 rounded-circle border border-primary-key border-opacity-3 bg-primary-key bg-opacity-2 clr-primary-10"
+															style={{
+																backgroundColor: "#AB1515",
+																color: "#FFFFFF",
+															}}
+														>
 															<BsCheck2 />
 														</span>
-														<span className="d-block fs-14 clr-primary-10 fw-medium">
+														<span className="d-block fs-14 fw-medium">
 															Language translation
 														</span>
 													</div>
 												</li>
 												<li>
 													<div className="d-flex gap-3">
-														<span className="flex-shrink-0 d-grid place-content-center w-5 h-5 rounded-circle border border-primary-key border-opacity-3 bg-primary-key bg-opacity-2 clr-primary-10">
+														<span
+															className="flex-shrink-0 d-grid place-content-center w-5 h-5 rounded-circle border border-primary-key border-opacity-3 bg-primary-key bg-opacity-2 clr-primary-10"
+															style={{
+																backgroundColor: "#AB1515",
+																color: "#FFFFFF",
+															}}
+														>
 															<BsCheck2 />
 														</span>
-														<span className="d-block fs-14 clr-primary-10 fw-medium">
+														<span className="d-block fs-14  fw-medium">
 															Language detection
 														</span>
 													</div>
 												</li>
 												<li>
 													<div className="d-flex gap-3">
-														<span className="flex-shrink-0 d-grid place-content-center w-5 h-5 rounded-circle border border-primary-key border-opacity-3 bg-primary-key bg-opacity-2 clr-primary-10">
+														<span
+															className="flex-shrink-0 d-grid place-content-center w-5 h-5 rounded-circle border border-primary-key border-opacity-3 bg-primary-key bg-opacity-2 clr-primary-10"
+															style={{
+																backgroundColor: "#AB1515",
+																color: "#FFFFFF",
+															}}
+														>
 															<BsCheck2 />
 														</span>
-														<span className="d-block fs-14 clr-primary-10 fw-medium">
+														<span className="d-block fs-14  fw-medium">
 															Unlimited conversations
 														</span>
 													</div>
 												</li>
 												<li>
 													<div className="d-flex gap-3">
-														<span className="flex-shrink-0 d-grid place-content-center w-5 h-5 rounded-circle border border-primary-key border-opacity-3 bg-primary-key bg-opacity-2 clr-primary-10">
+														<span
+															className="flex-shrink-0 d-grid place-content-center w-5 h-5 rounded-circle border border-primary-key border-opacity-3 bg-primary-key bg-opacity-2 clr-primary-10"
+															style={{
+																backgroundColor: "#AB1515",
+																color: "#FFFFFF",
+															}}
+														>
 															<BsCheck2 />
 														</span>
-														<span className="d-block fs-14 clr-primary-10 fw-medium">
+														<span className="d-block fs-14  fw-medium">
 															API Access
 														</span>
 													</div>
@@ -148,10 +190,7 @@ const PricingFive = () => {
 											</ul>
 										</div>
 									</div>
-									
 								</div>
-
-								
 							</div>
 						</div>
 					</div>

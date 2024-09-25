@@ -62,42 +62,9 @@ const HeroFive = () => {
 					<div className="col-md-10 col-lg-5">
 						<div className="position-relative">
 							<div className="row">
-								<div className="col-6">
-									<img
-										src={wall3}
-										alt="image"
-										className="img-fluid mt-6 fadein_bottom_29"
-									/>
-									<img
-										src={wall1}
-										alt="image"
-										className="img-fluid mt-6 fadein_bottom_29"
-									/>
-								</div>
-								<div className="col-6">
-									<img
-										src={wall2}
-										alt="image"
-										className="img-fluid fadein_bottom_29"
-									/>
-									<img
-										src={wall3}
-										alt="image"
-										className="img-fluid mt-6 fadein_bottom_29"
-									/>
-								</div>
+								<div className="col-6"></div>
+								<div className="col-6"></div>
 							</div>
-
-							<img
-								src={heroImage7}
-								alt="image"
-								className="img-fluid position-absolute hero-5__right hero-5__right-arrow1 fadein_bottom_29"
-							/>
-							<img
-								src={heroImage8}
-								alt="image"
-								className="img-fluid position-absolute hero-5__right hero-5__right-arrow2 fadein_bottom_29"
-							/>
 						</div>
 					</div>
 				</div>

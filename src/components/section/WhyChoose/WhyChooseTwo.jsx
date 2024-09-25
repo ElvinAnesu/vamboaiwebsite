@@ -104,13 +104,7 @@ const WhyChooseTwo = () => {
 													</Link>
 												</div>
 											</div>
-											<div className="col-lg-6">
-												<img
-													src={wall4}
-													alt="image"
-													className="img-fluid fadeIn_bottom"
-												/>
-											</div>
+											<div className="col-lg-6"></div>
 										</div>
 									</Tab.Pane>
 									<Tab.Pane eventKey="#link2">
@@ -140,13 +134,7 @@ const WhyChooseTwo = () => {
 													</Link>
 												</div>
 											</div>
-											<div className="col-lg-6">
-												<img
-													src={wall2}
-													alt="image"
-													className="img-fluid"
-												/>
-											</div>
+											<div className="col-lg-6"></div>
 										</div>
 									</Tab.Pane>
 									<Tab.Pane eventKey="#link3">
@@ -175,16 +163,9 @@ const WhyChooseTwo = () => {
 													VamboAI B2C <BsArrowUpRight />
 												</Link>
 											</div>
-											<div className="col-lg-6">
-												<img
-													src={wall1}
-													alt="image"
-													className="img-fluid"
-												/>
-											</div>
+											<div className="col-lg-6"></div>
 										</div>
 									</Tab.Pane>
-									
 								</Tab.Content>
 							</Tab.Container>
 						</div>

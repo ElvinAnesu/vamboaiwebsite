@@ -5,16 +5,14 @@ const FaqBody = () => {
 	return (
 		<>
 			<section className="breadcrumb-section">
-				<div className="breadcrumb-section-inner">
+				<div className="">
 					<div className="container">
 						<div className="row justify-content-center">
 							<div className="col-xxl-5 col-xl-8 mb">
 								<div className="text-center">
-									<div className="d-inline-flex align-items-center py-2 px-4 bg-info-10 bg-opacity-3 rounded-1">
-										<span className="fs-12 clr-white">Vambo AI</span>
-									</div>
-									<h2 className="h3 fw-bold clr-neutral-90 mt-4">
-										Questions? We Have Answers.
+									<h2 className="h3 fw-bold  mt-4">
+										Questions? <br />
+										We Have Answers.
 									</h2>
 								</div>
 							</div>
@@ -30,6 +28,7 @@ const FaqBody = () => {
 														action
 														href="#link1"
 														className="nav-link link todo-nav__link"
+														style={{ color: "#AB1515" }}
 													>
 														Users
 													</ListGroup.Item>
@@ -39,6 +38,7 @@ const FaqBody = () => {
 														action
 														href="#link2"
 														className="nav-link link todo-nav__link"
+														style={{ color: "#AB1515" }}
 													>
 														Developers
 													</ListGroup.Item>
@@ -48,6 +48,7 @@ const FaqBody = () => {
 														action
 														href="#link3"
 														className="nav-link link todo-nav__link"
+														style={{ color: "#AB1515" }}
 													>
 														For Businesses
 													</ListGroup.Item>
@@ -57,6 +58,7 @@ const FaqBody = () => {
 														action
 														href="#link4"
 														className="nav-link link todo-nav__link"
+														style={{ color: "#AB1515" }}
 													>
 														Schools
 													</ListGroup.Item>
@@ -66,6 +68,7 @@ const FaqBody = () => {
 														action
 														href="#link5"
 														className="nav-link link todo-nav__link"
+														style={{ color: "#AB1515" }}
 													>
 														For Academia
 													</ListGroup.Item>
@@ -79,6 +82,7 @@ const FaqBody = () => {
 												<Accordion
 													defaultActiveKey="0"
 													className="custom-accordion custom-accordion--faq mb-8"
+													style={{ backgroundColor: "#AB1515" }}
 												>
 													<Accordion.Item
 														eventKey="0"

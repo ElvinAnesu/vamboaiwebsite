@@ -42,8 +42,13 @@ const HowWorkOne = () => {
 				<div className="container">
 					<div className="how-work-wrapper">
 						<div className="how-work-single-row">
-							<div className="thumb fadeIn_bottom">
-								<img src={wall6} alt="image" className="img-fluid" />
+							<div className="content">
+								<h4 className="animate-line-3d">Our Vision</h4>
+								<p className="my-6 animate-text-from-right">
+									A world where African languages are fully integrated into
+									global digital platforms, ensuring cultural preservation and
+									inclusivity for future generations.
+								</p>
 							</div>
 							<div className="content">
 								<h4 className="animate-line-3d">Our Mission</h4>
@@ -51,19 +56,6 @@ const HowWorkOne = () => {
 									To digitally preserve African languages, bridge communication
 									gaps, and drive cultural inclusion by providing scalable
 									AI-driven language solutions.
-								</p>
-							</div>
-						</div>
-						<div className="how-work-single-row">
-							<div className="thumb fadeIn_bottom">
-								<img src={wall7} alt="image" className="img-fluid" />
-							</div>
-							<div className="content">
-								<h4 className="animate-line-3d">Our Vision</h4>
-								<p className="my-6 animate-text-from-right">
-									A world where African languages are fully integrated into
-									global digital platforms, ensuring cultural preservation and
-									inclusivity for future generations.
 								</p>
 							</div>
 						</div>

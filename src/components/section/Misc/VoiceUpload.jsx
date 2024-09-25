@@ -18,7 +18,7 @@ const VoiceUpload = () => {
 							<div className="position-relative text-center">
 								<h3 className="fw-extrabold animate-line-3d">
 									Empowering{" "}
-									<span style={{color:"#AB1515"}}>African Languages</span>
+									<span style={{ color: "#AB1515" }}>African Languages</span>{" "}
 									with AI
 								</h3>
 								<p className="animate-text-from-bottom">
