@@ -38,7 +38,8 @@ const HeaderFive = () => {
 								</Link>
 								<button
 									onClick={toggleMobileMenu}
-									className="menu-toggle w-8 h-8 p-0 border-0 lh-1 bg-primary-50 clr-neutral-100 :clr-neutral-100 transition :bg-primary-300 rounded flex-shrink-0 d-lg-none order-sm-3 fs-24"
+									className="menu-toggle w-8 h-8 p-0 border-0 lh-1  :clr-neutral-100 transition :bg-primary-300 rounded flex-shrink-0 d-lg-none order-sm-3 fs-24"
+									style={{ backgroundColor: "#AB1515" }}
 								>
 									<BsList />
 								</button>
