@@ -109,7 +109,7 @@ const HeaderFive = () => {
 								<ul className="list list-row gap-xl-6 gap-lg-4 bg-transparent align-items-center">
 									<li className="menu-list mx-4 mx-lg-0">
 										<Link
-											to="/login"
+											to="https://app.vambo.ai"
 											className="link d-inline-flex justify-content-center py-2 px-xl-5 px-4 fs-14 fw-bold text-center clr-primary-10 py-2 px-4 rounded-1 h5-btn-border-left bg-white-12"
 											style={{
 												border: "solid #AB1515",
@@ -121,7 +121,7 @@ const HeaderFive = () => {
 									</li>
 									<li className="menu-list menu-list-border-none mx-4 mx-lg-0">
 										<Link
-											to="/register"
+											to="https://app.vambo.ai"
 											className="link py-3 px-xl-5 px-4 bg-primary-10 :bg-primary-40 rounded-1 fs-14 fw-bold text-center clr-white"
 											style={{ color: "#ffffff", backgroundColor: "#AB1515" }}
 										>
